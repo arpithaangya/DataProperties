@@ -1,0 +1,39 @@
+[INFO ] 2023-11-06 15:31:49.131 [main] TestLogger - logged in to myntra
+[INFO ] 2023-11-06 15:31:50.441 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:33:41.302 [main] TestLogger - logged in to myntra
+[ERROR] 2023-11-06 15:33:41.410 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at Log.LogsPractice.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:33:42.085 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:34:51.521 [main] TestLogger - logged in to myntra
+[ERROR] 2023-11-06 15:34:51.562 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at Log.LogsPractice.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:34:52.207 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:37:13.976 [main] TestLogger - logged in to myntra
+[ERROR] 2023-11-06 15:37:14.011 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at Log.LogsPractice.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:37:14.511 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:43:19.950 [main] TestLogger - logged in to myntra
+[ERROR] 2023-11-06 15:43:19.991 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at Log.LogsPractice.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:43:20.463 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:44:52.647 [main] TestLogger - logged in to myntra
+[ERROR] 2023-11-06 15:44:52.680 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at Log.LogsPractice.TestLogger.main(TestLogger.java:27) [test-classes/:?]
+[INFO ] 2023-11-06 15:44:54.348 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:45:34.145 [main] TestLogger - logged in to myntra
+[INFO ] 2023-11-06 15:45:35.349 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:47:22.423 [main] TestLogger - opened google
+[INFO ] 2023-11-06 15:47:24.128 [main] TestLogger - opened google
+[INFO ] 2023-11-06 15:47:38.706 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:47:39.923 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:49:09.333 [main] TestLogger - opened google
+[INFO ] 2023-11-06 15:49:11.903 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:50:12.400 [main] TestLogger - opened google
+[INFO ] 2023-11-06 15:50:12.913 [main] TestLogger - Quitting the driver 
+[INFO ] 2023-11-06 15:52:38.928 [main] TestLogger - opened google
+[INFO ] 2023-11-06 15:52:40.604 [main] TestLogger - Quitting the driver 
